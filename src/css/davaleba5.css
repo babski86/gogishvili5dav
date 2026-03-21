@@ -3,6 +3,9 @@
 	padding: 0px;
 	box-sizing: border-box;
 }
+html{
+	scroll-behavior: smooth;
+}
 imag{
 	width: 100%;
 }
@@ -62,6 +65,8 @@ a{
 	border-radius: 28px;
 	font-size: 16px;
 	color: #171717;
+	display: inline-block;
+	line-height: 55px;
 }
 .img-mtavari{
 	max-width: 1195;
@@ -132,8 +137,106 @@ article{
 footer{
 	background-color: #0020F4 ;;
 	max-width: 1920px;
-	height: 100px;
+	height: 1080px;
 
  	margin:auto;
 
+}
+.contact{
+	padding-top: 275px;
+	padding-left: 240px;
+	margin-bottomb: 240px;
+	display: inline-block;
+}
+.h2{
+	color: #FFFFFF;
+	font-size: 32px;
+
+}
+.footer-p{
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.footer-p-size{
+	margin-top: 30px;
+	margin-bottom: 58px;
+	width: 463px;
+	height: 99px;
+	display: inline-block;
+}
+.tel-logo{
+	width: 26px;
+	height: 26px;
+	
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.back-tel-logo{
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.footer-p{
+	color: #FFFFFF;
+
+}
+.back-tel{
+	font-size: 22px;
+	line-height: 22px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left:  20px;
+}
+.contact-spec{
+	margin-top: 70px;
+	display: inline-block;
+}
+.contact-spec-mail{
+	margin-left: 98px;
+	display: inline-block;
+}
+.didi{
+	max-width: 463px;
+	height: 400px;
+	display: inline-block;
+	margin-left: 304px;
+
+}
+.blanki{
+
+	margin-top: 373px;
+	width: 463px;
+	height: 400px;
+
+}
+.name{
+	max-width: 463px;
+	width: 100%;
+	height: 60px;
+	border-bottom: 1px solid  #FFFFFF;
+	margin-bottom: 40px;
+	display: block;
+}
+.sms{
+	max-width: 463px;
+	width: 100%;
+	height: 140px;
+	border-bottom: 1px solid  #FFFFFF;
+	margin-bottom: 40px;
+	display: block;
+
+}
+.but{
+	border-radius: 28px;
+	width: 151px;
+	height: 55px;
+	font-size: 16px;
 }
