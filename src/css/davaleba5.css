@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+imag{
+	width: 100%;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+
+.mtavari{
+	max-width: 1920px;
+	height: 388px;
+	background-color: #0020F4 ;
+ 	margin:auto;
+}
