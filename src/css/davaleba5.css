@@ -19,4 +19,47 @@ a{
 	height: 388px;
 	background-color: #0020F4 ;
  	margin:auto;
+ 	padding: 27px 205px 269.56px 240px;
+}
+.shida{
+	max-width: 1475px;
+	height: 91px; 
+}
+.nav{
+	display: inline-block;
+	margin-left: 488px;
+	vertical-align: bottom;
+}
+
+.nav , li{
+	display: inline-block;
+}
+.nav , a{
+	color: #FFFFFF;
+}
+.mt{
+	margin-right: 43px;
+}
+.ch{
+	margin-right: 53px;
+}
+.ser{
+	margin-right: 45px;
+}
+.pro{
+	margin-right: 42px;
+}
+.par{
+	margin-right: 42px;
+}
+
+
+.button{
+	background-color:#FFFFFF ;	
+	width: 160px;
+	height: 55px;
+	text-align: center;
+	border-radius: 28px;
+	font-size: 16px;
+	color: #171717;
 }
